@@ -1,15 +1,11 @@
-# 🧠 Daily LeetCode Challenge 🚀
+# 💻 Daily LeetCode Challenge — C++ Solutions 📅
 
 Welcome to my **Daily LeetCode Challenge** repository!  
-This project is part of my commitment to **#100DaysOfCode**, where I solve at least one LeetCode problem every day to strengthen my Data Structures & Algorithms (DSA) skills.
+This repo contains my **personal solutions** to LeetCode problems solved as part of my consistency journey in coding.
 
 ---
 
-## 📁 Repository Structure
+## 📁 Folder Structure
 
-Each folder is organized by date and contains:
-- ✅ The problem statement link  
-- 🧠 My approach and explanation (as comments)  
-- 🧮 Solution code (in C++/Python/etc.)
+Each folder is named in the format:
 
-Example:
