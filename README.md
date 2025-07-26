@@ -1,4 +1,3 @@
-# Leetcode-Daily-Challenge
 # 🧠 Daily LeetCode Challenge 🚀
 
 Welcome to my **Daily LeetCode Challenge** repository!  
