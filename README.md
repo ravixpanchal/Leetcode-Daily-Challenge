@@ -7,7 +7,7 @@ This repo contains my **personal solutions** to LeetCode problems solved as part
 
 ## 📁 Folder Structure
 
-Each folder is named in the format:
+Each folder contains respective title code.
 
 
 ---
